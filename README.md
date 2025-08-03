@@ -18,7 +18,7 @@ A responsive and user-friendly ToDo application built using **React** and **Boot
 ## 🚀 Live Demo
 
 🔗 [![Netlify Status](https://api.netlify.com/api/v1/badges/277e89ca-730c-44fa-b51c-21056019fb63/deploy-status)](https://app.netlify.com/projects/stately-cascaron-c5eef1/deploys)
-🔗 [![Netlify Status](https://api.netlify.com/api/v1/badges/277e89ca-730c-44fa-b51c-21056019fb63/deploy-status)](https://stately-cascaron-c5eef1.netlify.app)
+🔗(https://stately-cascaron-c5eef1.netlify.app)
 
 
 ---
