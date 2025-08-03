@@ -26,8 +26,9 @@ A responsive and user-friendly ToDo application built using **React** and **Boot
 - ✅ Filter by **All**, **Completed**, and **Active**
 - ✅ Responsive design using **Bootstrap**
 - ✅ LocalStorage support (optional enhancement)
-- <br>
+  <br>
  ⚙️ Tools: React, Bootstrap, localStorage
+  <br>
  🕒 Time: 1-2 days
 ---
 
