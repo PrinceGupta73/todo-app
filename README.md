@@ -10,3 +10,48 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# 📝 ToDo App
+
+A responsive and user-friendly ToDo application built using **React** and **Bootstrap**. This app allows users to add, delete, filter, and manage their daily tasks with ease.
+
+## 🚀 Live Demo
+
+🔗 [Click here to view the live app](https://your-deployment-url.netlify.app)
+
+---
+
+
+## ✨ Features
+
+- ✅ Add new tasks
+- ✅ Mark tasks as complete/incomplete
+- ✅ Delete tasks
+- ✅ Filter by **All**, **Completed**, and **Active**
+- ✅ Responsive design using **Bootstrap**
+- ✅ LocalStorage support (optional enhancement)
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React (Vite)
+- 🎨 Bootstrap 5
+- 🗂️ JavaScript (ES6)
+- 💡 JSX & Functional Components
+
+  ---
+
+## 📁 Folder Structure
+
+todo-app/
+├── public/
+├── src/
+│ ├── components/
+│ │ ├── TodoItem.jsx
+│ │ └── FilterButtons.jsx
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+├── package.json
+└── README.md
