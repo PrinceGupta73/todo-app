@@ -28,8 +28,8 @@ A responsive and user-friendly ToDo application built using **React** and **Boot
 - ✅ LocalStorage support (optional enhancement)
   <br>
   
- ##⚙️ Tools: React, Bootstrap, localStorage
- 
+ #⚙️ Tools: React, Bootstrap, localStorage
+ ---
 ## 🕒 Time: 1-2 days
 ---
 
